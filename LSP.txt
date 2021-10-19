@@ -1,0 +1,8 @@
+AZ:
+ Liskov bibi deyir ki, nəvəyə nənəsinin oyuncaqları çatsın deyə, nənə ilə nəvə arasındakı nəsillərdə olan ailə üzvləri oyuncağı işlətməməlidirlər.
+
+TR:
+ Liskov hala diyor ki, anneannesinin oyuncakları torununa ulaşsın diye, onların arasındaki kuşaklardan hiç kimse oyuncağı kullanmamalı.
+
+EN:
+ Aunt Liskov says that, family members of generations between grandma and grandchild mustn't use the toy to transfer grandma's toys to grandchild.
